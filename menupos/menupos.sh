@@ -22,7 +22,7 @@ menu ()
      1)
 	  ##Iniciando XAMPP
 	  echo "Olá, Estamos iniciando o controle do xampp"
-	  sudo bash xmpcontrol/xmpc.sh
+	  sudo bash ../xmpcontrol/xmpc.sh
 	  sleep 1
 	 echo "======="
 	 ;;
